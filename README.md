@@ -17,3 +17,12 @@
 ## Union all
 
 ![Union all](union-all.png?raw=true)
+
+## Intersect
+
+![Intersect](intersect.png?raw=true)
+
+## Minus
+
+![Minus](minus.png?raw=true)
+
