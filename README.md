@@ -1,1 +1,1 @@
-# sql-set-operators
+# Sql set operators
