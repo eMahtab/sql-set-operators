@@ -10,3 +10,8 @@
 | Intersect  | All distinct rows selected by both queries  |
 | Minus  | All distinct rows selected by the first query but not the second  |
 
+## Union
+
+![Union](union.png?raw=true)
+
+## 
