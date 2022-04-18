@@ -14,4 +14,6 @@
 
 ![Union](union.png?raw=true)
 
-## 
+## Union all
+
+![Union all](union-all.png?raw=true)
